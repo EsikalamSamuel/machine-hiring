@@ -11,7 +11,7 @@ Through a review of current research and industry practices, this project examin
 
 The findings highlight the importance of responsible AI governance, continuous auditing, and human oversight to ensure hiring technologies support equitable and inclusive workforce development.
 
-# Here's a brief overview of what the script does:
+### Here's a brief overview of what the script does:
 
 First I moved the 'dataset.csv' file into the home directory of the project.
 
