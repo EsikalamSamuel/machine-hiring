@@ -1,4 +1,17 @@
-Here's a brief overview of what this script does:
+# Binary Algorithms or Dynamic Potential?
+### Unveiling the Impacts of Machine-Driven Hiring on Workforce Diversity, Equity, and Creativity
+
+🎥 Video Summary: [https://youtu.be/U6sRSXisW2o](https://youtu.be/U6sRSXisW2o)
+
+How does AI-driven hiring affect diversity, equity, and workplace creativity?
+
+This project investigates the growing use of machine-learning systems in recruitment and hiring decisions. While automated hiring tools can improve efficiency and consistency, they may also reproduce historical biases, reduce transparency, and influence workforce diversity outcomes.
+
+Through a review of current research and industry practices, this project examines both the risks and opportunities associated with machine-driven hiring. Particular attention is given to algorithmic bias, fairness, explainability, and the impact of automated screening on organizational creativity and innovation.
+
+The findings highlight the importance of responsible AI governance, continuous auditing, and human oversight to ensure hiring technologies support equitable and inclusive workforce development.
+
+# Here's a brief overview of what the script does:
 
 First I moved the 'dataset.csv' file into the home directory of the project.
 
